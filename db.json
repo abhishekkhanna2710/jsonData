@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "Abhishek",
+      "age": 22,
+      "gender": "Male",
+      "country": "India",
+      "profession": "Student",
+      "id": 1
+    },
+    {
+      "name": "Piyush",
+      "age": 13,
+      "gender": "Male",
+      "country": "Africa",
+      "profession": "Student",
+      "id": 2
+    }
+  ]
+}
